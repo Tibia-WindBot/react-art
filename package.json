@@ -41,7 +41,6 @@
   },
   "scripts": {
     "prepublish": "gulp",
-    "postinstall": "gulp",
     "test": "jest"
   },
   "jest": {
